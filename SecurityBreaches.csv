@@ -1,0 +1,255 @@
+,Entity,YEAR,records lost,ORGANISATION,METHOD OF LEAK,DATA SENSITIVITY
+0,,"years are encoded (0=2004, 8 = 2012, 9 = 2013, 10=2014, 11=2015, 12=2016, 13 = 2017, 14=latest","(use 3m, 4m, 5m or 10m to approximate unknown figures)",,,1. Just email address/Online information 20 SSN/Personal details 300 Credit card information 4000 Email password/Health records 50000 Full bank account details
+1,AOL,2004,92000000,web,inside job,Just email address/Online information
+2,Automatic Data Processing,2005,125000,financial,poor security,SSN/Personal details
+3,Ameritrade Inc.,2005,200000,financial,lost / stolen device,SSN/Personal details
+4,Citigroup,2005,3900000,financial,lost / stolen device,Credit card information
+5,Cardsystems Solutions Inc. ,2005,40000000,financial,hacked,Credit card information
+6,Hewlett Packard,2006,200000,"tech, retail",lost / stolen device,SSN/Personal details
+7,Countrywide Financial Corp,2006,2600000,financial,inside job,Credit card information
+8,KDDI,2006,4000000,telecoms,hacked,Just email address/Online information
+9,"T-Mobile, Deutsche Telecom",2006,17000000,telecoms,lost / stolen device,Just email address/Online information
+10,AOL,2006,20000000,web,accidentally published,Just email address/Online information
+11,US Dept of Vet Affairs,2006,26500000,"government, military",lost / stolen device,SSN/Personal details
+12,Texas Lottery,2007,89000,government,inside job,SSN/Personal details
+13,City and Hackney Teaching Primary Care Trust,2007,160000,government,lost / stolen device,SSN/Personal details
+14,Gap Inc,2007,800000,retail,lost / stolen device,SSN/Personal details
+15,Compass Bank,2007,1000000,financial,inside job,Credit card information
+16,Monster.com,2007,1600000,web,hacked,SSN/Personal details
+17,Driving Standards Agency,2007,3000000,government,lost / stolen device,SSN/Personal details
+18,"Driving Standards Agency,",2007,3000000,government,lost / stolen device,SSN/Personal details
+19,Hannaford Brothers Supermarket Chain,2007,4200000,retail,hacked,Credit card information
+20,TD Ameritrade,2007,6300000,financial,hacked,Just email address/Online information
+21,Fidelity National Information Services,2007,8500000,financial,inside job,Credit card information
+22,Dai Nippon Printing,2007,8637405,retail,inside job,Just email address/Online information
+23,UK Revenue & Customs,2007,25000000,government,lost / stolen device,Just email address/Online information
+24,TK / TJ Maxx,2007,94000000,retail,hacked,Credit card information
+25,Service Personnel and Veterans Agency (UK),2008,50500,government,lost / stolen device,SSN/Personal details
+26,Stanford University,2008,72000,academic,lost / stolen device,SSN/Personal details
+27,UK Home Office,2008,84000,government,lost / stolen device,SSN/Personal details
+28,AT&T,2008,113000,telecoms,lost / stolen device,Just email address/Online information
+29,Starbucks,2008,97000,retail,lost / stolen device,SSN/Personal details
+30,RBS Worldpay,2008,1500000,financial,hacked,SSN/Personal details
+31,Jefferson County,2008,1600000,government,accidentally published,SSN/Personal details
+32,UK Ministry of Defence,2008,1700000,government,lost / stolen device,Full bank account details
+33,University of Miami,2008,2100000,academic,lost / stolen device,Credit card information
+34,University of Utah Hospitals & Clinics,2008,2200000,academic,lost / stolen device,Email password/Health records
+35,Norwegian Tax Authorities,2008,3950000,government,accidentally published,SSN/Personal details
+36,Data Processors International,2008,5000000,financial,hacked,Just email address/Online information
+37,Chile Ministry Of Education,2008,6000000,government,hacked,Just email address/Online information
+38,GS Caltex,2008,11100000,energy,inside job,SSN/Personal details
+39,BNY Mellon Shareowner Services,2008,12500000,financial,lost / stolen device,Just email address/Online information
+40,Auction.co.kr,2008,18000000,web,hacked,Credit card information
+41,US Dept of Defense,2009,72000,military,lost / stolen device,SSN/Personal details
+42,US National Guard,2009,131000,military,lost / stolen device,SSN/Personal details
+43,University of California Berkeley,2009,160000,academic,hacked,Credit card information
+44,"Affinity Health Plan, Inc.",2009,344579,healthcare,lost / stolen device,Email password/Health records
+45,Virginia Prescription Monitoring Program,2009,531400,healthcare,hacked,SSN/Personal details
+46,Network Solutions,2009,573000,tech,hacked,Credit card information
+47,Blue Cross Blue Shield of Tennessee,2009,1023209,healthcare,lost / stolen device,SSN/Personal details
+48,"AvMed, Inc.",2009,1220000,healthcare,lost / stolen device,SSN/Personal details
+49,Health Net ,2009,1500000,healthcare,lost / stolen device,Email password/Health records
+50,CheckFree Corporation,2009,5000000,financial,hacked,Just email address/Online information
+51,Virginia Dept. Of Health,2009,8257378,"government, healthcare",hacked,Email password/Health records
+52,RockYou!,2009,32000000,"web, gaming",hacked,Just email address/Online information
+53,US Military,2009,76000000,military,lost / stolen device,SSN/Personal details
+54,Heartland,2009,130000000,financial,hacked,Credit card information
+55,Yale University,2010,43000,academic,accidentally published,SSN/Personal details
+56,AT&T,2010,114000,telecoms,hacked,Just email address/Online information
+57,Colorado government,2010,105470,healthcare,lost / stolen device,SSN/Personal details
+58,Lincoln Medical & Mental Health Center,2010,130495,healthcare,lost / stolen device,Email password/Health records
+59,"Ankle & foot Center of Tampa Bay, Inc.",2010,156000,healthcare,hacked,Email password/Health records
+60,"Emergency Healthcare Physicians, Ltd.",2010,180111,healthcare,lost / stolen device,Email password/Health records
+61,"Seacoast Radiology, PA",2010,231400,healthcare,hacked,SSN/Personal details
+62,Embassy Cables,2010,251000,government,inside job,Full bank account details
+63,US Military,2010,260000,military,inside job,Full bank account details
+64,US Federal Reserve Bank of Cleveland,2010,400000,financial,hacked,Credit card information
+65,Classified Iraq War documents,2010,392000,government,inside job,SSN/Personal details
+66,"Triple-S Salud, Inc.",2010,398000,healthcare,lost / stolen device,Email password/Health records
+67,Puerto Rico Department of Health,2010,515000,healthcare,hacked,Email password/Health records
+68,Ohio State University,2010,760000,academic,hacked,SSN/Personal details
+69,"South Shore Hospital, Massachusetts",2010,800000,healthcare,lost / stolen device,Full bank account details
+70,Gawker.com,2010,1500000,web,hacked,SSN/Personal details
+71,New York City Health & Hospitals Corp.,2010,1700000,healthcare,lost / stolen device,Email password/Health records
+72,Betfair,2010,2300000,web,hacked,Credit card information
+73,JP Morgan Chase,2010,2600000,financial,lost / stolen device,Credit card information
+74,Educational Credit Management Corp,2010,3300000,financial,lost / stolen device,SSN/Personal details
+75,Morgan Stanley Smith Barney,2011,34000,financial,lost / stolen device,Credit card information
+76,US Army,2011,50000,military,accidentally published,Just email address/Online information
+77,Writerspace.com,2011,62000,web,hacked,Just email address/Online information
+78,University of Wisconsin - Milwaukee,2011,73000,academic,hacked,SSN/Personal details
+79,Memorial Healthcare System,2011,102153,healthcare,lost / stolen device,SSN/Personal details
+80,US Law Enforcement,2011,123461,government,hacked,Credit card information
+81,San Francisco Public Utilities Commission ,2011,180000,government,hacked,Just email address/Online information
+82,Accendo Insurance Co. ,2011,175350,healthcare,poor security,SSN/Personal details
+83,Bethesda Game Studios,2011,200000,gaming,hacked,Just email address/Online information
+84,Restaurant Depot,2011,200000,retail,hacked,Credit card information
+85,Massachusetts Government,2011,210000,government,hacked,Full bank account details
+86,Southern California Medical-Legal Consultants,2011,300000,healthcare,hacked,SSN/Personal details
+87,Honda Canada,2011,283000,retail,hacked,SSN/Personal details
+88,Citigroup,2011,360083,financial,hacked,Credit card information
+89,Spartanburg Regional Healthcare System,2011,400000,healthcare,lost / stolen device,Email password/Health records
+90,Eisenhower Medical Center,2011,514330,healthcare,lost / stolen device,Email password/Health records
+91,Stratfor,2011,935000,military,hacked,Credit card information
+92,Sony Pictures,2011,1000000,web,hacked,Just email address/Online information
+93,Oregon Department of Motor Vehicles,2011,1000000,government,hacked,SSN/Personal details
+94,Nemours Foundation,2011,1055489,healthcare,lost / stolen device,Email password/Health records
+95,Sega,2011,1290755,gaming,hacked,SSN/Personal details
+96,Washington Post,2011,1270000,media,hacked,SSN/Personal details
+97,Health Net - IBM,2011,1900000,healthcare,lost / stolen device,Credit card information
+98,Countrywide Financial Corp,2011,2500000,financial,inside job,SSN/Personal details
+99,State of Texas,2011,3500000,government,accidentally published,SSN/Personal details
+100,Sutter Medical Foundation,2011,4243434,healthcare,lost / stolen device,SSN/Personal details
+101,Tricare,2011,4901432,"military, healthcare",lost / stolen device,Email password/Health records
+102,China Software Developer Network,2011,6000000,web,hacked,Just email address/Online information
+103,NHS,2011,8300000,healthcare,lost / stolen device,Email password/Health records
+104,178.com,2011,10000000,web,hacked,Just email address/Online information
+105,Nexon Korea Corp,2011,13200000,web,hacked,SSN/Personal details
+106,Sony Online Entertainment,2011,24600000,gaming,hacked,Credit card information
+107,Tianya,2011,28000000,web,hacked,Just email address/Online information
+108,Steam,2011,35000000,web,hacked,Credit card information
+109,Sony PSN,2011,77000000,gaming,hacked,Just email address/Online information
+110,Dropbox,2012,30000,web,hacked,Just email address/Online information
+111,Militarysingles.com,2012,163792,"web, military",hacked,Just email address/Online information
+112,South Carolina Government,2012,6400000,healthcare,inside job,Email password/Health records
+113,Emory Healthcare,2012,315000,healthcare,lost / stolen device,Email password/Health records
+114,Formspring,2012,420000,web,hacked,Just email address/Online information
+115,Yahoo Voices,2012,450000,"tech, web",hacked,Just email address/Online information
+116,Medicaid,2012,780000,"government, healthcare",hacked,SSN/Personal details
+117,California Department of Child Support Services,2012,800000,government,lost / stolen device,SSN/Personal details
+118,Global Payments,2012,7000000,financial,hacked,Credit card information
+119,New York State Electric & Gas,2012,1800000,energy,inside job,SSN/Personal details
+120,Three Iranian banks,2012,3000000,financial,hacked,Full bank account details
+121,Office of the Texas Attorney General,2012,6500000,government,accidentally published,SSN/Personal details
+122,"LinkedIn, eHarmony, Last.fm",2012,8000000,web,hacked,Just email address/Online information
+123,Gamigo,2012,8000000,web,hacked,Just email address/Online information
+124,KT Corp.,2012,8700000,telecoms,hacked,SSN/Personal details
+125,Greek government,2012,9000000,government,hacked,SSN/Personal details
+126,"""Apple""",2012,12367232,"tech, retail",accidentally published,SSN/Personal details
+127,Blizzard,2012,14000000,gaming,hacked,SSN/Personal details
+128,Zappos,2012,24000000,web,hacked,SSN/Personal details
+129,Last.fm,2012,43500000,web,hacked,Just email address/Online information
+130,Dropbox,2012,68700000,web,hacked,Just email address/Online information
+131,Massive American business hack,2012,160000000,financial,hacked,Full bank account details
+132,Court Ventures,2012,200000000,financial,inside job,SSN/Personal details
+133,LinkedIn,2012,117000000,web,hacked,Just email address/Online information
+134,South Carolina State Dept. of Revenue,2012,3600000,government,hacked,3
+135,Central Hudson Gas & Electric,2013,110000,energy,hacked,Credit card information
+136,"Crescent Health Inc., Walgreens",2013,100000,healthcare,lost / stolen device,Email password/Health records
+137,Florida Courts,2013,100000,government,lost / stolen device,SSN/Personal details
+138,Florida Department of Juvenile Justice,2013,100000,government,lost / stolen device,SSN/Personal details
+139,Kirkwood Community College,2013,125000,academic,hacked,SSN/Personal details
+140,Citigroup,2013,150000,financial,accidentally published,SSN/Personal details
+141,Indiana University,2013,146000,academic,poor security,SSN/Personal details
+142,Washington State court system,2013,160000,government,hacked,SSN/Personal details
+143,TerraCom & YourTel,2013,170000,telecoms,accidentally published,SSN/Personal details
+144,Nintendo,2013,240000,gaming,hacked,SSN/Personal details
+145,Twitter,2013,250000,web,hacked ,Just email address/Online information
+146,Apple,2013,275000,tech,hacked,Just email address/Online information
+147,OVH,2013,,web,hacked,SSN/Personal details
+148,Scribd,2013,500000,web,hacked,Just email address/Online information
+149,Drupal,2013,1000000,web,hacked,Just email address/Online information
+150,NMBS,2013,1460000,transport,accidentally published,SSN/Personal details
+151,National Security Agency,2013,1500000,government,inside job,Full bank account details
+152,Kissinger Cables,2013,1700000,government,inside job,Credit card information
+153,Ubuntu,2013,2000000,tech,hacked,Credit card information
+154,Vodafone,2013,2000000,telecoms,inside job,Credit card information
+155,ssndob.ms,2013,4000000,web,hacked,SSN/Personal details
+156,Advocate Medical Group,2013,4000000,healthcare,lost / stolen device,SSN/Personal details
+157,SnapChat,2013,4700000,"web, tech",hacked,SSN/Personal details
+158,Facebook,2013,6000000,web,accidentally published,Just email address/Online information
+159,Yahoo Japan,2013,22000000,"tech, web",hacked,Just email address/Online information
+160,Adobe,2013,36000000,tech,hacked,Full bank account details
+161,Evernote,2013,50000000,web,hacked,Just email address/Online information
+162,Living Social,2013,50000000,web,hacked,Just email address/Online information
+163,UbiSoft,2013,,gaming,hacked,SSN/Personal details
+164,Yahoo,2013,1000000000,web,hacked,SSN/Personal details
+165,Tumblr,2013,65000000,web,hacked,Just email address/Online information
+166,New York Taxis,2014,52000,transport,poor security,Just email address/Online information
+167,NASDAQ,2014,500000,financial,hacked,Just email address/Online information
+168,Dominios Pizzas (France),2014,600000,web,hacked,Just email address/Online information
+169,Japan Airlines,2014,750000,transport,hacked,SSN/Personal details
+170,Mozilla,2014,76000,web,poor security,SSN/Personal details
+171,MacRumours.com,2014,860000,web,hacked,Just email address/Online information
+172,"D&B, Altegrity",2014,1000000,tech,hacked,Credit card information
+173,Neiman Marcus,2014,1100000,retail,hacked,SSN/Personal details
+174,Staples,2014,1160000,retail,hacked,Credit card information
+175,European Central Bank,2014,4000000,financial,hacked,Just email address/Online information
+176,UPS,2014,4000000,retail,hacked,Credit card information
+177,Community Health Systems,2014,4500000,healthcare,hacked,SSN/Personal details
+178,"""Gmail""",2014,5000000,web,hacked,Just email address/Online information
+179,Sony Pictures,2014,10000000,media,hacked,SSN/Personal details
+180,Twitch.tv,2014,10000000,healthcare,hacked,Just email address/Online information
+181,Korea Credit Bureau,2014,20000000,financial,inside job,Full bank account details
+182,AOL,2014,2400000,web,hacked,Just email address/Online information
+183,Home Depot,2014,56000000,retail,hacked,Credit card information
+184,Target,2014,70000000,retail,hacked,Credit card information
+185,JP Morgan Chase,2014,76000000,financial,hacked,Credit card information
+186,Ebay,2014,145000000,web,hacked,Just email address/Online information
+187,Yahoo,2014,500000000,web,hacked,SSN/Personal details
+188,Invest Bank,2015,40000,financial,hacked,Full bank account details
+189,Uber,2015,50000,tech,poor security,Just email address/Online information
+190,IRS,2015,100000,government,hacked,Just email address/Online information
+191,TalkTalk,2015,157000,web,hacked,SSN/Personal details
+192,MSpy,2015,400000,tech,hacked,SSN/Personal details
+193,Australian Immigration Department,2015,500000,government,accidentally published,Full bank account details
+194,British Airways,2015,500000,retail,hacked,Just email address/Online information
+195,Hacking Team,2015,500000,web,hacked,Full bank account details
+196,Slack,2015,500000,tech,hacked,Just email address/Online information
+197,Carefirst,2015,1100000,healthcare,hacked,Just email address/Online information
+198,CarPhone Warehouse,2015,2700000,web,hacked,Full bank account details
+199,Sanrio,2015,3300000,web,poor security,SSN/Personal details
+200,Adult Friend Finder,2015,3900000,web,hacked,Just email address/Online information
+201,US Office of Personnel Management,2015,4000000,government,hacked,SSN/Personal details
+202,VTech,2015,6400000,web,hacked,Full bank account details
+203,Premera,2015,11000000,healthcare,hacked,Full bank account details
+204,Kromtech,2015,13000000,web,hacked,Just email address/Online information
+205,Experian / T-mobile,2015,15000000,web,hacked,Credit card information
+206,US Office of Personnel Management (2nd Breach),2015,21500000,government,hacked,Full bank account details
+207,AshleyMadison.com,2015,37000000,web,hacked,Just email address/Online information
+208,Securus Technologies,2015,70000000,web,hacked,Full bank account details
+209,Deep Root Analytics,2015,198000000,web,poor security,SSN/Personal details
+210,Syrian government,2016,274477,government,hacked,Just email address/Online information
+211,Minecraft,2016,7000000,web,hacked,Just email address/Online information
+212,Mossack Fonseca,2016,11500000,legal,hacked,Full bank account details
+213,Mail. ru,2016,25000000,web,hacked,SSN/Personal details
+214,Fling,2016,40000000,web,hacked,Email password/Health records
+215,Turkish citizenship database,2016,49611709,government,hacked,SSN/Personal details
+216,Philippines’ Commission on Elections,2016,55000000,government,hacked,Full bank account details
+217,Anthem ,2016,80000000,healthcare,hacked,SSN/Personal details
+218,VK,2016,100544934,web,hacked,Email password/Health records
+219,Wendy's,2016,1025,retail,hacked,Credit card information
+220,Mutuelle Generale de la Police,2016,112000,healthcare,inside job,Full bank account details
+221,MySpace,2016,164000000,web,hacked,Just email address/Online information
+222,Linux Ubuntu forums,2016,2000000,web,hacked,Just email address/Online information
+223,World Check,2016,2200000,media,poor security,Credit card information
+224,uTorrent ,2016,35000,web,hacked,Just email address/Online information
+225,Banner Health,2016,3700000,healthcare,hacked,Credit card information
+226,Privatization Agency of the Republic of Serbia,2016,5190396,government,accidentally published,SSN/Personal details
+227,Quest Diagnostics,2017,34000,healthcare,hacked,Email password/Health records
+228,Three,2017,200000,telecoms,hacked,SSN/Personal details
+229,Wonga,2017,270000,financial,hacked,Full bank account details
+230,PayAsUGym,2017,300000,web,hacked,Just email address/Online information
+231,Red Cross Blood Service,2017,550000,healthcare,accidentally published,Email password/Health records
+232,DaFont,2017,700000,web,hacked,Email password/Health records
+233,Brazzers,2017,790724,web,hacked,Email password/Health records
+234,Snapchat,2017,1700000,app,hacked,Just email address/Online information
+235,Bell,2017,1900000,telecoms,hacked,Just email address/Online information
+236,Cellebrite,2017,3000000,tech,hacked,SSN/Personal details
+237,Clinton campaign,2017,5000000,government,hacked,SSN/Personal details
+238,ClixSense,2017,6600000,web,hacked,Full bank account details
+239,Lynda.com,2017,9500000,web,hacked,Just email address/Online information
+240,Interpark,2017,10000000,web,hacked,SSN/Personal details
+241,Zomato,2017,17000000,web,hacked,Email password/Health records
+242,Yahoo,2017,32000000,web,hacked,Email password/Health records
+243,Weebly,2017,43000000,web,hacked,Email password/Health records
+244,Dailymotion,2017,85200000,web,hacked,Just email address/Online information
+245,Friend Finder Network,2017,412000000,web,hacked,Just email address/Online information
+246,River City Media,2017,1370000000,web,accidentally published,SSN/Personal details
+247,Telegram ,2017,15000000,tech,hacked,Just email address/Online information
+248,Waterly,2017,1000000,app,poor security,Credit card information
+249,CEX,2017,2000000,retail,accidentally published,Credit card information
+250,Swedish Transport Agency,2017,3000000,government,poor security,Full bank account details
+251,Instagram,2017,6000000,web,hacked,Just email address/Online information
+252,Equifax,2017,143000000,financial,hacked,Full bank account details
+253,Spambot,2017,711000000,web,poor security,Email password/Health records
